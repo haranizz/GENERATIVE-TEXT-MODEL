@@ -68,7 +68,9 @@ This task helped me understand how large language models work, and how to integr
 
 Task 4 was a creative and exciting assignment that showcased the power of language models in generating meaningful and human-like text. The GPT-2 model was easy to integrate using Hugging Face’s high-level API, and it demonstrated impressive performance even without fine-tuning. This type of system has real-world applications in chatbots, content generation, story writing, code suggestion, and more. By completing this task, I enhanced my understanding of transformers, natural language processing, and the importance of pre-trained models in modern AI systems.
 
+# OUTPUT #
 
+![Image](https://github.com/user-attachments/assets/78fb6c1f-9ec5-468a-b11b-99dca48b146a)
 
 
 
